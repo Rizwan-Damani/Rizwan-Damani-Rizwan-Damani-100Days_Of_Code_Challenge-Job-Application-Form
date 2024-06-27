@@ -7,7 +7,7 @@ CSS styling for layout, form controls, and button interaction.
 Responsive design using CSS Grid and media queries for optimal viewing on different devices.
 Instructions:
 
-Clone the repository to your local machine using git clone https://github.com/your-username/job-application-form.git.
+Clone the repository to your local machine using git clone https://github.com/Rizwan-Damani/Rizwan-Damani-Rizwan-Damani-100Days_Of_Code_Challenge-Job-Application-Form.git
 Open index.html to view the job application form in your browser.
 Fill out the form with your details and upload your CV to apply.
 Click "Apply Now" to submit the form.
